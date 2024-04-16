@@ -1,3 +1,5 @@
 pan
 manteca
 leche
+yerba
+azucar
