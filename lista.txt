@@ -3,3 +3,6 @@ manteca
 leche
 yerba
 azucar
+fideos
+harina
+
